@@ -18,7 +18,7 @@ expect_known_display(object, file, ..., width = 80L, crayon = TRUE)
 \item{crayon}{Color the output?}
 }
 \description{
-\ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#superseded}{\figure{lifecycle-superseded.svg}{options: alt='[Superseded]'}}}{\strong{[Superseded]}}
+\ifelse{html}{\href{https://lifecycle.r-lib.org/articles/stages.html#soft-deprecated}{\figure{lifecycle-soft-deprecated.svg}{options: alt='[Soft-deprecated]'}}}{\strong{[Soft-deprecated]}}
 
 Expectation for packages that implement a data type with pillar support.
 Allows storing the desired result in a file,

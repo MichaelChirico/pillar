@@ -2,7 +2,7 @@
 #' Test helpers
 #'
 #' @description
-#' `r lifecycle::badge("superseded")`
+#' `r lifecycle::badge("soft-deprecated")`
 #'
 #' Expectation for packages that implement a data type with pillar support.
 #' Allows storing the desired result in a file,
